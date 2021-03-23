@@ -21,6 +21,7 @@
 
 2. HTML
     1. Learn the basics
+        - inflearn을 통해서 basic html tag 공부
     2. Writing Semantic HTML
     3. Forms and Validations
     4. Conventions and Best Practices
