@@ -1,5 +1,7 @@
 # 인프런 강의 활용하기
 
+- 잔재미코딩 풀스택 개발자 되기 Python flask + React 사용하는 것 통해서 진행 예정
+
 - Front
 
 - Back

@@ -65,3 +65,24 @@
 ## 일단 여기까지 해두고 나머지 아래 해당 부분
 
 - CSS Architecture(BEM), CSS Preprocessors(Sass, PostCSS), build tools-(Task Runners(npm scripts), Module Bundler(Webpack), Linters and Formatters(Prettier, ESlint)), Framework(React.js-Redux), Modern CSS(styled Components,  CSS modules), Web Components(HTML Templates, Custom Elements, Shadow DOM), CSS Frameworks(Reactstrap, Material UI, Bootstrap), Testing yout Apps(Jest, react-testing-library, Cypress, Enzyme), Type Checkers(TypeScript)m Progrssive Web Apps, Server Side Rendering(SSR)(React.js, Next.js), GraphQL(Apollo), Static Site Generators(Next.js, GatsbyJS), Mobile Applications(React Native), Desktop Applications(Electron), Web Assembly, Keep Learning 에 대해서 알아보고 적용할 것
+
+## 기획
+
+- Figma
+
+## Front
+
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- Bootstrap
+
+## Back
+
+- nodejs
+- MySQL
+
+## 2021-04-01 React 환경구성 시작
+
