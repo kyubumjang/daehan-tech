@@ -1,0 +1,16 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-prettier": "^8.1.0",
+    "koa": "^2.13.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.21.0",
+    "@typescript-eslint/parser": "^4.21.0",
+    "eslint": "^7.23.0",
+    "eslint-plugin-react": "^7.23.2"
+  }
+}
