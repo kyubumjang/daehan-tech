@@ -1,6 +1,6 @@
 # 대한 테크 웹페이지 개발 환경 다시 재구성 중\
 # 시험기간 내 진행 불가
-## 0417, 0418
+## 0417, 0418, 0419: Study Image Processing
 
 # Getting Started with Create React App
 
