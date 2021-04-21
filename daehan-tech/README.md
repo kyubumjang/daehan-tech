@@ -2,6 +2,7 @@
 # 시험기간 내 진행 불가
 ## 0417, 0418, 0419: Study Image Processing
 ## 0420: Image Processing mid-test
+## 0421: Information Security 
 
 # Getting Started with Create React App
 
