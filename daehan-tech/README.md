@@ -5,6 +5,7 @@
 ## 0421: Information Security
 ## 0422: Machine Learning
 ## 0423: Capston Desing, IP, ML, CL HW5-1, 5-2
+## 0425: CD1 중간보고서
 
 # Getting Started with Create React App
 
