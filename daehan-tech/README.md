@@ -8,7 +8,9 @@
 ## 0425: CD1 중간보고서
 ## 0426: Machin Learning, CD1 중간보고서 마감, IP HW3
 ## 0427: Information Security
+## 0502: Coputer Vision
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
