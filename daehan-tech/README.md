@@ -9,6 +9,7 @@
 ## 0426: Machin Learning, CD1 중간보고서 마감, IP HW3
 ## 0427: Information Security
 ## 0502: Coputer Vision
+## 0503: Computer Graphics
 # Getting Started with Create React App
 
 
