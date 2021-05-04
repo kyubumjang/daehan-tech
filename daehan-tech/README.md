@@ -10,6 +10,8 @@
 ## 0427: Information Security
 ## 0502: Coputer Vision
 ## 0503: Computer Graphics
+## 0504: Computer Graphics
+
 # Getting Started with Create React App
 
 
