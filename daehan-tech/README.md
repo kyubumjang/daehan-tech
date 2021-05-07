@@ -12,6 +12,8 @@
 ## 0503: Computer Graphics
 ## 0504: Computer Graphics
 ## 0505: Front-end
+## 0506: ML, GAN, FE
+## 0507: FE
 # Getting Started with Create React App
 
 
