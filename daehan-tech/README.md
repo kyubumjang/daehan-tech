@@ -29,6 +29,7 @@
 ## 0524: CL1 dev
 ## 0525~0527 학업과 병원으로 인해 X
 ## 0528: FE
+## 0529: FE
 # Getting Started with Create React App
 
 
