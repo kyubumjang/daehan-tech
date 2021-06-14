@@ -35,8 +35,9 @@
 ## 0601: ML
 ## 0602: ML
 ## 0603: FE
-## 0617: FE
-## 0618: FE
+## 0604: FE
+## 0605: FE
+## 0614: ML, IP, IS
 # Getting Started with Create React App
 
 
