@@ -38,6 +38,8 @@
 ## 0604: FE
 ## 0605: FE
 ## 0614: ML, IP, IS
+## 0615: 기말
+## 0616: 기말
 # Getting Started with Create React App
 
 
