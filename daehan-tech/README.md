@@ -46,6 +46,7 @@
 ## 0620: 기말
 ## 0621: 기말
 ## 0622: JS & React study
+## 0624: JS & React study
 
 # Getting Started with Create React App
 
