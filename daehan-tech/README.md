@@ -1,56 +1,108 @@
 # 대한 테크 웹페이지 개발 환경 다시 재구성 중\
-# 시험기간 내 진행 불가
-## 0417, 0418, 0419: Study Image Processing
-## 0420: Image Processing mid-test
-## 0421: Information Security
-## 0422: Machine Learning
-## 0423: Capston Desing, IP, ML, CL HW5-1, 5-2
-## 0425: CD1 중간보고서
-## 0426: Machin Learning, CD1 중간보고서 마감, IP HW3
-## 0427: Information Security
-## 0502: Coputer Vision
-## 0503: Computer Graphics
-## 0504: Computer Graphics
-## 0505: Front-end
-## 0506: ML, GAN, FE
-## 0507: FE
-## 0509: Image Processing
-## 0510: F4CLOUD FE dev
-## 0511: F4CLOUD FE dev
-## 0512: F4CLOUD FE dev
-## 0514: F4CLOUD FE dev
-## 0515: F4CLOUD FE dev
-## 0516: F4CLOUD FE dev
-## 0517: CL1 dev
-## 0518: CL1 dev
-## 0519: CL1 dev
-## 0520: CL1 dev
-## 0523: CL1 dev
-## 0524: CL1 dev
-## 0525~0527 학업과 병원으로 인해 X
-## 0528: FE
-## 0529: FE
-## 0530: FE
-## 0531: FE
-## 0601: ML
-## 0602: ML
-## 0603: FE
-## 0604: FE
-## 0605: FE
-## 0614: ML, IP, IS
-## 0615: 기말
-## 0616: 기말
-## 0617: 기말
-## 0618: 기말
-## 0619: 기말
-## 0620: 기말
-## 0621: 기말
-## 0622: JS & React study
-## 0623: JS & React study
-## 0627: JS & React study
-## 0703: JS & React study
-# Getting Started with Create React App
 
+# 시험기간 내 진행 불가
+
+## 0417, 0418, 0419: Study Image Processing
+
+## 0420: Image Processing mid-test
+
+## 0421: Information Security
+
+## 0422: Machine Learning
+
+## 0423: Capston Desing, IP, ML, CL HW5-1, 5-2
+
+## 0425: CD1 중간보고서
+
+## 0426: Machin Learning, CD1 중간보고서 마감, IP HW3
+
+## 0427: Information Security
+
+## 0502: Coputer Vision
+
+## 0503: Computer Graphics
+
+## 0504: Computer Graphics
+
+## 0505: Front-end
+
+## 0506: ML, GAN, FE
+
+## 0507: FE
+
+## 0509: Image Processing
+
+## 0510: F4CLOUD FE dev
+
+## 0511: F4CLOUD FE dev
+
+## 0512: F4CLOUD FE dev
+
+## 0514: F4CLOUD FE dev
+
+## 0515: F4CLOUD FE dev
+
+## 0516: F4CLOUD FE dev
+
+## 0517: CL1 dev
+
+## 0518: CL1 dev
+
+## 0519: CL1 dev
+
+## 0520: CL1 dev
+
+## 0523: CL1 dev
+
+## 0524: CL1 dev
+
+## 0525~0527 학업과 병원으로 인해 X
+
+## 0528: FE
+
+## 0529: FE
+
+## 0530: FE
+
+## 0531: FE
+
+## 0601: ML
+
+## 0602: ML
+
+## 0603: FE
+
+## 0604: FE
+
+## 0605: FE
+
+## 0614: ML, IP, IS
+
+## 0615: 기말
+
+## 0616: 기말
+
+## 0617: 기말
+
+## 0618: 기말
+
+## 0619: 기말
+
+## 0620: 기말
+
+## 0621: 기말
+
+## 0622: JS & React study
+
+## 0623: JS & React study
+
+## 0627: JS & React study
+
+## 0703: JS & React study
+
+## 0707: Bitbucket 사용으로 인해 commit 내역 부족..Readme.md로 1커밋 진행할 예정
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
