@@ -122,6 +122,7 @@
 
 ## 0818: Bitbucket 사용으로 인해 commit 내역 부족..Readme.md로 1커밋 진행할 예정
 
+## 0819: Bitbucket 사용으로 인해 commit 내역 부족..Readme.md로 1커밋 진행할 예정
 
 # Getting Started with Create React App
 
