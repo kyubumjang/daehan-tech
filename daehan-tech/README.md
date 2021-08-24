@@ -126,6 +126,8 @@
 
 ## 0820: Bitbucket 사용으로 인해 commit 내역 부족..Readme.md로 1커밋 진행할 예정
 
+## 0824: 인턴 종료로 인해 다시 github 사용
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
