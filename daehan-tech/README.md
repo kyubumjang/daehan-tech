@@ -128,6 +128,8 @@
 
 ## 0824: 인턴 종료로 인해 다시 github 사용
 
+## 0824: 인턴 보고서 작성하는 중
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
