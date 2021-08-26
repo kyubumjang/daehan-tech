@@ -130,6 +130,8 @@
 
 ## 0824: 인턴 보고서 작성하는 중
 
+## 0824: 개인 포트폴리오 기획 중
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
