@@ -134,6 +134,8 @@
 
 ## 0831: 개인 포트폴리오 기획 중
 
+## 0901: 개강
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
