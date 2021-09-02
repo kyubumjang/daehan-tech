@@ -136,6 +136,8 @@
 
 ## 0901: 개강
 
+## 0902: 컴퓨터 비전 수업
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
