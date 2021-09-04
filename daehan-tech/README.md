@@ -138,6 +138,8 @@
 
 ## 0902: 컴퓨터 비전 수업
 
+## 0904: 휴식
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
