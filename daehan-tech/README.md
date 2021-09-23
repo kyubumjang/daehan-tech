@@ -154,6 +154,10 @@
 
 ## 0914: Computer Vision
 
+## 0920~0922: 추석 연휴
+
+## 0923: Computer Vision
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
