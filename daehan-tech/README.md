@@ -178,6 +178,8 @@
 
 ## 1205: Capstone Design2
 
+## main page 구성
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
