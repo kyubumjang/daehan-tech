@@ -182,6 +182,8 @@
 
 ## main page 구성 기획
 
+## main page 구성 기획 figma
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
