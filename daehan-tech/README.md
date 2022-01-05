@@ -184,6 +184,8 @@
 
 ## main page 구성 기획 figma
 
+## ably externship 진행으로 보류
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
