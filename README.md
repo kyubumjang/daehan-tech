@@ -1,5 +1,59 @@
-# Daehan_Tech
-# 대한테크 웹페이지
-## 2020.02.24
-- 대한테크 기업 홈페이지 제작 시작
-- repository 생성
+# 대한테크
+
+## 프로젝트 소개
+대한테크 제품 소개 페이지
+
+### 엄마가 좋아? vs 아빠가 좋아?
+
+SNS, 방송을 중심으로 깻잎, 새우 논쟁 등 다양한 의견이 있는 간단한 논쟁들을<br> 쉽게 투표하고 의견을 나누는 **토론 커뮤니티 서비스** 입니다.
+
+<br><br>
+## 개발자
+[<img src="https://user-images.githubusercontent.com/53526987/174883646-271721df-ef12-4420-adad-074aa9a01293.jpeg" width="100">](https://github.com/KyubumJang)
+<br>
+|  장규범   |                                                              
+| 프론트엔드 |
+
+<br><br>
+## 개발 일정
+
+- 06.06.2022 ~ 06.22.2022
+  - ~ 06.08.2022  : 초기 기획
+  - ~ 06.15.2022  : 중간 점검
+  - ~ 06.22.2022  : 최종 발표
+
+<br><br>
+## 개발 환경
+### 💪 언어 & 라이브러리
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Context API](https://img.shields.io/badge/ContextAPI-4dd0e1.svg?&style=for-the-badge&logo=React&logoColor=white)<br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-BB6BB5.svg?style=for-the-badge&logo=emotion&logoColor=white)
+
+### 🔧 도구
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?&style=for-the-badge&logo=ESLint&logoColor=white)<br>
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)<br>
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<br><br>
+
+## 핵심 기능
+### 제품 소개
+
+<br><br>
+
+## 기대 효과
+아버지가 좋아하길 바라며.
+
+<br><br>
+## 폴더 구조
