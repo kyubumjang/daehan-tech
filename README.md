@@ -3,10 +3,6 @@
 ## 프로젝트 소개
 대한테크 제품 소개 페이지
 
-### 엄마가 좋아? vs 아빠가 좋아?
-
-SNS, 방송을 중심으로 깻잎, 새우 논쟁 등 다양한 의견이 있는 간단한 논쟁들을<br> 쉽게 투표하고 의견을 나누는 **토론 커뮤니티 서비스** 입니다.
-
 <br><br>
 ## 개발자
 [<img src="https://user-images.githubusercontent.com/53526987/174883646-271721df-ef12-4420-adad-074aa9a01293.jpeg" width="100">](https://github.com/KyubumJang)
