@@ -1,25 +1,28 @@
 # 대한테크
 
 ## 프로젝트 소개
+
 대한테크 제품 소개 페이지
 
 <br><br>
+
 ## 개발자
+
 [<img src="https://user-images.githubusercontent.com/53526987/174883646-271721df-ef12-4420-adad-074aa9a01293.jpeg" width="100">](https://github.com/KyubumJang)
 <br>
-|  장규범   |                                                              
+| 장규범 |  
 | 프론트엔드 |
 
 <br><br>
+
 ## 개발 일정
 
-- 06.06.2022 ~ 06.22.2022
-  - ~ 06.08.2022  : 초기 기획
-  - ~ 06.15.2022  : 중간 점검
-  - ~ 06.22.2022  : 최종 발표
+- 2022.07.12 ~
 
 <br><br>
+
 ## 개발 환경
+
 ### 💪 언어 & 라이브러리
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,12 +47,15 @@
 <br><br>
 
 ## 핵심 기능
+
 ### 제품 소개
 
 <br><br>
 
 ## 기대 효과
+
 아버지가 좋아하길 바라며.
 
 <br><br>
+
 ## 폴더 구조
