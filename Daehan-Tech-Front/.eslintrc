@@ -1,16 +1,16 @@
 {
   "root": true,
   "env": {
-    "browser": true
+    "browser": true,
+    "es6": true,
+    "node": true
   },
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "tsconfigRootDir": "./",
     "project": ["./tsconfig.json"]
   },
-  "plugins": [
-    "@typescript-eslint"
-  ],
+  "plugins": ["@typescript-eslint"],
   "extends": [
     "airbnb",
     "airbnb-typescript",
@@ -24,5 +24,8 @@
     "react": {
       "version": "detect"
     }
+  },
+  "rules": {
+    "react/jsx-props-no-spreading": "off"
   }
 }
