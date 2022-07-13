@@ -1,14 +1,23 @@
 import { Routes, Route } from 'react-router-dom';
 import HomePage from '@pages/HomePage';
-import Layout from './layout/layout';
+import NotFoundPage from '@pages/NotFound';
+import Layout from '@layouts/layout';
+import './styles/App.css';
+import GlobalStyle from '@styles/GlobalStyle';
+import { ThemeProvider } from '@emotion/react';
+import theme from '@themes/theme';
 
 function App() {
   return (
-    <Routes>
-      <Route path='/' element={<Layout />}>
-        <Route index element={<HomePage />} />
-      </Route>
-    </Routes>
+    <ThemeProvider theme={theme}>
+      <GlobalStyle />
+      <Routes>
+        <Route path='/' element={<Layout />}>
+          <Route index element={<HomePage />} />
+        </Route>
+        <Route path='*' element={<NotFoundPage />} />
+      </Routes>
+    </ThemeProvider>
   );
 }
 
