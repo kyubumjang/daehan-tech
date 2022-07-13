@@ -1,0 +1,16 @@
+@import 'antd/dist/antd.css';
+@font-face {
+  font-family: 'KotraGothic';
+  font-weight: 400;
+  src: url('../assets/fonts/KOTRA_GOTHIC.woff') format('woff');
+}
+@font-face {
+  font-family: 'KotraBold';
+  font-weight: 700;
+  src: url('../assets/fonts/KOTRA_BOLD.woff') format('woff');
+}
+@font-face {
+  font-family: 'KotraSongeulssi';
+  font-weight: 400;
+  src: url('../assets/fonts/KOTRA_SONGEULSSI.woff') format('woff');
+}
