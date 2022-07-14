@@ -2,7 +2,7 @@ import { Routes, Route } from 'react-router-dom';
 import HomePage from '@pages/HomePage';
 import NotFoundPage from '@pages/NotFound';
 import Layout from '@layouts/layout';
-import './styles/App.css';
+import './styles/App.less';
 import GlobalStyle from '@styles/GlobalStyle';
 import { ThemeProvider } from '@emotion/react';
 import theme from '@themes/theme';

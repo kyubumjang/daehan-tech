@@ -43,7 +43,6 @@ const style = css`
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    padding-inline-start: 40px;
   }
   button,
   input,
@@ -53,6 +52,7 @@ const style = css`
   html {
     box-sizing: border-box;
     word-break: keep-all !important;
+    line-height: 1.4;
   }
   body {
     box-sizing: border-box;
