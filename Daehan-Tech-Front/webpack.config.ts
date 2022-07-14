@@ -26,6 +26,7 @@ const config: WebpackConfig = {
       '@styles': path.resolve(__dirname, 'src/styles'),
       '@themes': path.resolve(__dirname, 'src/themes'),
       '@assets': path.resolve(__dirname, 'src/assets'),
+      '@constants': path.resolve(__dirname, 'src/constants'),
     },
   },
   output: {
@@ -43,6 +44,30 @@ const config: WebpackConfig = {
       {
         test: /\.(css)$/,
         use: ['style-loader', 'css-loader'],
+      },
+      {
+        test: /\.less$/,
+        use: [
+          {
+            loader: 'style-loader',
+          },
+          {
+            loader: 'css-loader',
+          },
+          {
+            loader: 'less-loader',
+            options: {
+              lessOptions: {
+                modifyVars: {
+                  'primary-color': '#1d39c4',
+                  'link-color': '#f0f5ff',
+                  'border-radius-base': '2px',
+                },
+                javascriptEnabled: true,
+              },
+            },
+          },
+        ],
       },
     ],
   },
