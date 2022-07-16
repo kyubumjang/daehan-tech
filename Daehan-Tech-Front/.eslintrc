@@ -14,6 +14,7 @@
   "extends": [
     "airbnb",
     "airbnb-typescript",
+    "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
@@ -29,5 +30,6 @@
     "react/jsx-props-no-spreading": "off",
     "import/prefer-default-export": "off",
     "@typescript-eslint/no-unsafe-member-access": "off"
-  }
+  },
+  "ignorePatterns": ["dist/", "node_modules/"]
 }
