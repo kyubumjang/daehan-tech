@@ -1,8 +1,6 @@
 import path from 'path';
-
 import webpack from 'webpack';
 import webpackDevServer from 'webpack-dev-server';
-
 import ForkTsCheckerWebpackPlugin from 'fork-ts-checker-webpack-plugin';
 import HTMLWebpackPlugin from 'html-webpack-plugin';
 import DotenvPlugin from 'dotenv-webpack';
@@ -69,6 +67,38 @@ const config: WebpackConfig = {
           },
         ],
       },
+      {
+        test: /\.(png|jpe?g|gif)$/i,
+        type: 'asset/resource',
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              publicPath: './dist',
+              name: '[name].[ext]?[hash]',
+            },
+          },
+          {
+            loader: 'url-loader',
+            options: {
+              publicPath: './dist/',
+              name: '[name].[ext]?[hash]',
+              limit: 10000,
+            },
+          },
+        ],
+      },
+      {
+        test: /\.svg$/i,
+        type: 'asset',
+        resourceQuery: /url/, // *.svg?url
+      },
+      {
+        test: /\.svg$/i,
+        issuer: /\.[jt]sx?$/,
+        resourceQuery: { not: [/url/] }, // exclude react component if *.svg?url
+        use: ['@svgr/webpack'],
+      },
     ],
   },
   ignoreWarnings: [/Failed to parse source map/],
@@ -77,7 +107,10 @@ const config: WebpackConfig = {
     new HTMLWebpackPlugin({
       template: path.resolve(__dirname, 'index.html'),
     }),
-    new DotenvPlugin(),
+    new DotenvPlugin({
+      path: './.env.development',
+      safe: true,
+    }),
   ],
   devServer: {
     port: 3000,
