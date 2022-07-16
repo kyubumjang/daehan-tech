@@ -8,6 +8,7 @@ const StyledRouterLink = styled(Link)`
   &:visited,
   &:link,
   &:active {
+    color: white;
     text-decoration: none;
   }
 `;
