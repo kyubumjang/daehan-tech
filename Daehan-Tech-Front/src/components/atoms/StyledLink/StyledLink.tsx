@@ -3,12 +3,12 @@ import styled from '@emotion/styled';
 
 const StyledRouterLink = styled(Link)`
   text-decoration: none;
+  color: white;
   &:focus,
   &:hover,
   &:visited,
   &:link,
   &:active {
-    color: white;
     text-decoration: none;
   }
 `;
