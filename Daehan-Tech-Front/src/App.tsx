@@ -6,6 +6,7 @@ import './styles/App.less';
 import GlobalStyle from '@styles/GlobalStyle';
 import { ThemeProvider } from '@emotion/react';
 import theme from '@themes/theme';
+import CareersPage from '@pages/CareersPage';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Layout />}>
           <Route index element={<HomePage />} />
+          <Route path='/career' element={<CareersPage />} />
         </Route>
         <Route path='*' element={<NotFoundPage />} />
       </Routes>
