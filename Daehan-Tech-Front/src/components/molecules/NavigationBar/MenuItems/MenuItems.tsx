@@ -463,7 +463,7 @@ const CustomLink = styled(StyledLink)`
     display: block;
     content: '';
     width: 100%;
-    height: 20px;
+    height: 19px;
     border-bottom: solid 2px #fff;
     transform: scaleX(0);
     transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
@@ -496,7 +496,7 @@ function MenuItems({ items }: IProps) {
             <MenuDropdown submenus={items.submenu} />
           </>
         ) : (
-          <CustomLink to='/#'>{items.title}</CustomLink>
+          <CustomLink to='/career'>{items.title}</CustomLink>
         )}
       </MenuItem>
     </MenuWrapper>

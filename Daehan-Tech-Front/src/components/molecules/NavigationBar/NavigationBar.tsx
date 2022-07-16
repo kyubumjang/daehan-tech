@@ -19,6 +19,19 @@ const Header = styled.header`
   backdrop-filter: none;
   width: 100%;
   height: 100%;
+  &::after {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background: #333;
+    content: '';
+    left: 50%;
+    display: block;
+    transform: translate(-50%, 0);
+    max-width: 100vw;
+    z-index: 100;
+  }
 `;
 
 const HeaderContainer = styled.div`
@@ -32,6 +45,7 @@ const HeaderContainer = styled.div`
   align-items: center;
   justify-content: space-between;
   padding: 0 32px;
+  margin: 0 auto;
 `;
 
 const Navigation = styled.nav`
@@ -66,7 +80,8 @@ const StyledIconBtn = styled(Button)`
   color: white;
   border: none;
 `;
-
+// TODO: 닫기 Button 추가
+// TODO: Link 추가
 function NavigationBar() {
   const theme = useTheme();
   return (
