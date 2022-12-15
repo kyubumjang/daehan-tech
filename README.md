@@ -11,8 +11,8 @@
 
 [<img src="https://user-images.githubusercontent.com/53526987/174883646-271721df-ef12-4420-adad-074aa9a01293.jpeg" width="100">](https://github.com/KyubumJang)
 <br>
-| 장규범 |  
-| 프론트엔드 |
+장규범
+프론트엔드
 
 <br><br>
 
