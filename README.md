@@ -48,16 +48,21 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 <br><br>
 
-## 핵심 기능
+### 핵심 기능
+- 회사 소개
+- 제품 소개
+- 발주 신청
+- 발주 조회
 
 ### 제품 소개
+만들 수 있는 것들에 대해 발주를 신청할 수 있고 연락이 가능하도록 하는 시스템 구축 (검색 가능하게)
+
+### 기대 효과
+발주 시스템의 효과 검증
 
 <br><br>
 
-## 기대 효과
+### 폴더 구조
 
-아버지가 좋아하길 바라며.
-
-<br><br>
-
-## 폴더 구조
+### 노션
+[노션에서 자세히 살펴보기](https://lawrencejang.notion.site/d3d4e839254343128f678ded549c93e7)
