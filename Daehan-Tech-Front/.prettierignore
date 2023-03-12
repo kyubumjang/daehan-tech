@@ -1,6 +1,0 @@
-dist
-.eslintrc
-.prettierrc
-.gitignore
-
-**/*.json

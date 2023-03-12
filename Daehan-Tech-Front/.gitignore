@@ -1,6 +1,0 @@
-node_modules
-.eslintcache
-.env
-yarn-error.log
-dist
-.env.development
